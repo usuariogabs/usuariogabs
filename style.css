@@ -1,3 +1,19 @@
-body{
-    background-color: rgb(48, 121, 204);
+header 
+{margin: 0;
+    padding: 0;}
+    .cabecalho 
+{background-color:#f2f3f8
+    color: white;
+    display:flex; 
 }
+    .escola-conteudo{
+      width: 35%;
+      display:flex;
+        justify-content: space-around;
+        align-items: center;}
+       { padding: 24px 0;}
+        .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        padding: 24px 0;
+        font-size: 24px;}
